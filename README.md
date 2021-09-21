@@ -11,11 +11,14 @@ For more details please refer to [![qt](https://www.qt.io/hubfs/qt-design-system
 ---
 
 ## 🖼Runtime Screenshot
-<img src="./data/login.png" width="350" alt="running" style="zoom:50%;" />
+- Login Interface
+<img src="./data/login.png" width="600" alt="running" style="zoom:50%;" />
 
-<img src="./data/main.png" width="350" alt="running" style="zoom:50%;" />
+- Main Interface
+<img src="./data/main.png" width="450" alt="running" style="zoom:50%;" />
 
-<img src="./data/ScheduleTable.png" width="350" alt="running" style="zoom:50%;" />
+- Schedule Table Interface
+<img src="./data/ScheduleTable.png" width="450" alt="running" style="zoom:50%;" />
 
 ---
 
