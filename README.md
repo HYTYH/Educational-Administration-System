@@ -1,6 +1,6 @@
 # Educational-Administration-System
 ## 📕BUPT Course: Program Design Practice
-A travel recommendation and simulation system that can find the optimal travel route that satisfies multiple user preferences with the lowest risk.
+A simple educational administration system
 
 ---
 ## 👀Notice
